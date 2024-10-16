@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raj kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+<img align="right" alt="coding" width="400"  src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" style="border-radius: 25px;">
 - 🌱 I’m currently learning **Advanced Python, AI-driven web development, and machine learning.**
 
-- 💬 Ask me about **eb development, AI integration, and Python**
+- 💬 Ask me about **web development, AI integration, and Python**
 
 - 📫 How to reach me **drajkumar01234@gmail.com**
 
